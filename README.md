@@ -4,7 +4,7 @@
 
 ### Windows系统打包方式
 
-pyinstaller.exe -F --windowed --icon=logo.ico --add-data "logo.ico;." compress_image.py
+pyinstaller.exe -F --windowed --icon=logo.ico --add-data "logo.ico;." compress_image.py </br>
 已有打包好的exe文件，点击即可运行，可在右侧Releases中下载
 
 ### 功能介绍
